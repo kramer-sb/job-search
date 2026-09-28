@@ -2,30 +2,42 @@
 
 | Date | Company | Role | Verdict | Status |
 |---|---|---|---|---|
-| 2026-09-28 | Aarna Cyber Defender (LinkedIn post) | Cyber Security Analyst | Not evaluated for resume fit — legitimacy unconfirmed | Skipped, do not apply |
-| 2026-09-28 | James Search Group (recruiter; end client not stated) | Security role, title not stated in JD | Weak fit: asks for 1-5 years of cybersecurity experience plus pen testing, policy writing, and GDPR/PCI/SOX audits, which is broader than SOC L1 and beyond what the resume shows | Reviewed |
+| 2026-09-28 | Company 001 | Cyber Security Analyst | Not evaluated for resume fit. Job post legitimacy unconfirmed | Skipped, do not apply |
+| 2026-09-28 | Company 002 | Security role, title not stated in JD | Weak fit: asks for 1-5 years of cybersecurity experience plus pen testing, policy writing, and GDPR/PCI/SOX audits, which is broader than SOC L1 and beyond what the resume shows | Reviewed |
+| 2026-09-28 | Company 003 | Security analyst role, title not stated in JD | Strong fit: duties match SOC L1 triage, documentation, playbooks, and IR support. Requirements are entry-level with no years of experience asked; only soft spot is the degree wording (held degrees are in unrelated fields, but "equivalent combination of education and experience" is allowed) | Skipped (in-person in Florida, not remote) |
+| 2026-09-28 | Company 004 | Associate, Risk Compliance (Confidentiality & Privacy) | Weak fit: requires 1+ years in privacy, technology risk, or compliance plus experience running privacy/tech risk assessments and tracking remediation, none of which the resume shows as work. Privacy/GRC role, not SOC L1 | Reviewed |
 
 ## Notes
 
-### James Search Group — Security role (2026-09-28)
+### Company 004: Associate, Risk Compliance (Confidentiality & Privacy) (2026-09-28)
 
-Full report saved at `reviews/2026-09-28-james-search-group.md`.
+Quick verdict only, no full report yet. Requirements: bachelor's degree (held) and 1+ years in confidentiality, privacy, technology risk, compliance, or risk management; experience conducting privacy or technology risk assessments; evaluating system controls, identifying gaps, and tracking remediation; preparing leadership reports. Preferred: CIPP/US, CIPM, or CIPT (none held); Microsoft 365 experience; professional services or consulting background; leadership-ready deliverables. Recruiting for the role closes 2026-09-30. Brie reports the role is local to her; the JD text itself does not state a location.
 
-### Aarna Cyber Defender — Cyber Security Analyst (2026-09-28)
+### Company 003: Security analyst role (2026-09-28)
+
+Responsibilities and requirements both reviewed (company name and title still not stated in the pasted JD). Requirements: bachelor's in cybersecurity/IT/CS/related or equivalent education and experience; basic cyber, networking, OS knowledge; familiarity with monitoring or IR concepts; soft skills; Security+ or equivalent preferred (held). No years of experience, clearance, or shift work stated. Full report saved at `reviews/2026-09-28-company-003.md`.
+
+Decided not to apply: the role is in-person in Florida. The Jobright listing incorrectly described it as remote. Good content fit, but location rules it out.
+
+### Company 002: Security role (2026-09-28)
+
+Recruiter posting; end client and title not stated. Full report saved at `reviews/2026-09-28-company-002.md`.
+
+### Company 001: Cyber Security Analyst (2026-09-28)
 
 Did not proceed to a resume/fit review because the job post's legitimacy couldn't be confirmed before drafting a cover letter for it.
 
 **What's confirmed real:**
-- `aarnacyberdefender.com` is a live company site (About, Services, Contact, FAQ pages).
-- `linkedin.com/company/aarna-cyber-defender/` is a substantial, apparently legitimate company page: Pune, India; IT Services/IT Consulting; 8K followers; 51-200 employees; branding matches the website.
-- Company contact info: `info@aarnacyberdefender.com`, phone +91-9503820287. No physical address listed anywhere.
+- The company has a live website (About, Services, Contact, FAQ pages).
+- The company has a substantial, apparently legitimate LinkedIn page: India-based IT services/consulting firm, 8K followers, 51-200 employees, branding matches the website.
+- Contact details exist for the company, but no physical address is listed anywhere.
 
 **What raised the flag:**
-- The actual LinkedIn post for this role was published under a *different* LinkedIn company page: `linkedin.com/company/soc-analyst-team/` — "SOC Analyst Team," 2-10 employees, 3K followers, no stated connection to Aarna Cyber Defender anywhere in its About text.
-- That page's contact email is a plain Gmail address (`socanalystteam1@gmail.com`), not a company domain, unusual for a stated cybersecurity consultancy.
-- That page lists its website as `pentestedge.com`, a third domain with no confirmed relationship to either Aarna Cyber Defender or SOC Analyst Team; it couldn't be independently verified (blocks automated access, doesn't surface in search tied to either name).
-- The job post itself directs applicants to `job@aarnacyberdefender.com`, which uses the real company's domain, but the posting activity is coming from the unrelated "SOC Analyst Team" page.
+- The actual LinkedIn post for this role was published under a *different* LinkedIn company page ("SOC Analyst Team," 2-10 employees, 3K followers) with no stated connection to the company anywhere in its About text.
+- That page's contact email is a plain Gmail address, not a company domain, which is unusual for a stated cybersecurity consultancy.
+- That page lists a third website that has no confirmed relationship to either the company or the "SOC Analyst Team" page. It couldn't be independently verified (blocks automated access, doesn't surface in search tied to either name).
+- The job post directs applicants to a job address on the real company's domain, but the posting activity is coming from the unrelated "SOC Analyst Team" page.
 
-**Net read:** the real company (Aarna Cyber Defender) appears legitimate on its own, but this specific job post shows an unexplained mix of that real company's domain with a separate, low-accountability page and an unverifiable third-party site. Could be a loosely-run recruiting partner, could be something using the real company's name without authorization. Decided not to send resume/PII until Aarna Cyber Defender confirms directly (via their own site/`info@` address) that this posting and `job@aarnacyberdefender.com` are actually theirs.
+**Net read:** the real company appears legitimate on its own, but this specific job post shows an unexplained mix of that company's domain with a separate, low-accountability page and an unverifiable third-party site. Could be a loosely-run recruiting partner, could be something using the real company's name without authorization. Decided not to send resume/PII until the company confirms directly (via its own site and general contact address) that this posting and the job address are actually theirs.
 
-**Next step if revisited:** send a short verification email to `info@aarnacyberdefender.com` asking whether the Cyber Security Analyst opening and the `job@aarnacyberdefender.com` address are legitimate and theirs, before applying.
+**Next step if revisited:** send a short verification email to the company's general contact address asking whether the Cyber Security Analyst opening and the job address are legitimate and theirs, before applying.
