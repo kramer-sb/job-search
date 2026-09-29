@@ -1,6 +1,6 @@
-# Companies
+# Resources
 
-Links take you straight to the the company's career page. Tags for different departments, if the company lists them.
+For those currently job-hunting. Links take you straight to the the company's career page. Tags for different departments, if the company lists them.
 
 - [honeycomb.io](https://www.honeycomb.io/careers/open-roles): *Engineering teams use Honeycomb to follow their code into production. From tracing distributed services to debugging non-deterministic AI workflows, Honeycomb gives humans and agents a shared view of the only thing that matters: what's happening for their end users.*
  `Engineering & IT` `Product` `Marketing` `Revenue` `Finance` `People & Culture`

@@ -8,6 +8,7 @@ This repo backs a Claude Project that reviews job descriptions against a master 
 
 - `CLAUDE.md` - standing instructions for the Claude Project: background, workflow for reviewing a JD, cover letter guidelines, and house style rules for anything drafted here.
 - `applications-log.md` - running log of every JD reviewed, with company, role, fit verdict, and status (Reviewed / Applied / Skipped / Interviewing / Rejected / Offer).
+- `resources.md` - list of resources with company career sites, including tags as applicable, and updated as often as I can.
 
 The master resume itself lives in the Claude Project's files, not in this repo.
 
