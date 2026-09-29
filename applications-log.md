@@ -6,8 +6,13 @@
 | 2026-09-28 | Company 002 | Security role, title not stated in JD | Weak fit: asks for 1-5 years of cybersecurity experience plus pen testing, policy writing, and GDPR/PCI/SOX audits, which is broader than SOC L1 and beyond what the resume shows | Reviewed |
 | 2026-09-28 | Company 003 | Security analyst role, title not stated in JD | Strong fit: duties match SOC L1 triage, documentation, playbooks, and IR support. Requirements are entry-level with no years of experience asked; only soft spot is the degree wording (held degrees are in unrelated fields, but "equivalent combination of education and experience" is allowed) | Skipped (in-person in Florida, not remote) |
 | 2026-09-28 | Company 004 | Associate, Risk Compliance (Confidentiality & Privacy) | Weak fit: requires 1+ years in privacy, technology risk, or compliance plus experience running privacy/tech risk assessments and tracking remediation, none of which the resume shows as work. Privacy/GRC role, not SOC L1 | Reviewed |
+| 2026-09-29 | Company 005 | Cyber Security Engineer (IT/OT security operations) | Weak fit: duties overlap SOC L1 work, but the degree must be cybersecurity/CS/related (held degrees are Paralegal Studies and Library Science) or 3+ years hands-on cybersecurity in production, and there is no equivalency clause. No OT/ICS exposure on the resume | Applied (2026-09-29, LinkedIn Easy Apply) |
 
 ## Notes
+
+### Company 005: Cyber Security Engineer (2026-09-29)
+
+Full report saved at `reviews/2026-09-29-company-005.md`. Applied 2026-09-29 via LinkedIn Easy Apply, which was the only option. The application had no cover letter field, so the cover letter drafted in chat (not saved) was not submitted. Responsibilities: SIEM monitoring across IT and OT, incident triage and escalation against playbooks, vulnerability assessments and patch validation, configuring security tools and agents, OT/ICS security principles, playbook/runbook/IR documentation, stakeholder partnership. Required: bachelor's in cybersecurity, CS, or related field, or 3+ years hands-on cybersecurity in a production environment; 1-3 years in IT or OT with exposure to security operations, monitoring, or system administration; Windows/Linux and CLI; basic networking; cloud exposure; Python or PowerShell; IAM and EDR/XDR concepts. Preferred: OT/ICS frameworks (NIST, CIS, IEC 62443, NERC CIP); manufacturing, industrial automation, or critical infrastructure experience. Jobright listed the role as remote; the JD text itself does not state a location.
 
 ### Company 004: Associate, Risk Compliance (Confidentiality & Privacy) (2026-09-28)
 
