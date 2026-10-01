@@ -9,3 +9,4 @@ For those currently job-hunting. Links take you straight to the the company's ca
 - [supabase](https://supabase.com/careers): *Supabase is an open-source backend-as-a-service platform built on PostgreSQL*
 `Success` `Support` `Engineering` `Marketing` `Sales` `Product` `Partnerships` `Growth` `Data+Growth` `Technical Program Management` `Business Ops`
 - [Dragos](https://job-boards.greenhouse.io/dragos): *Dragos safeguards civilization by protecting critical infrastructure from cyber threats. Privately held and headquartered in Washington, DC, with a global presence across the Americas, Asia-Pacific, Europe, and the Middle East.*
+- [Happy Robot](https://www.happyrobot.ai/careers)
