@@ -32,6 +32,14 @@ When Brie shares a job description (pasted or attached) and asks for a review, f
 
 This repo is public, so `/applications-log.md` never contains real company names. Company identity lives only in `/company-map.md`, which is gitignored and stays local.
 
+**Source of truth for the log and map.** The copies in the local `job-search` repo are the source of truth. The copies in the Claude Project are a mirror for lookups when the computer isn't linked.
+
+- Before assigning a company ID, adding a log row, or editing `applications-log.md` or `company-map.md`, read the local repo copy through the linked computer and work from that.
+- If the computer isn't reachable, say so and ask Brie to paste the current files. Never assign an ID from the Project copy alone.
+- Edit only the rows or notes that changed. Don't rewrite either file wholesale from another copy, and confirm afterward that no existing rows disappeared.
+- After the local edit, refresh the Project copy from the local file so the two match.
+- Read Git history only with read-only commands such as `git --no-optional-locks log`. Never run commands that touch the index (a plain `git status` can leave a stale `.git/index.lock` that blocks Brie's commits).
+
 Keep a running log at `/applications-log.md` in this Project (create it if it doesn't exist yet). After each JD review:
 
 1. Check `/company-map.md` for this company. If it's already there, reuse its ID. If not, assign the next sequential ID (zero-padded, e.g. `001`, `002`) and add a row to `/company-map.md`: `| ID | Company |`.
