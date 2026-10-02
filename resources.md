@@ -10,3 +10,5 @@ For those currently job-hunting. Links take you straight to the the company's ca
 `Success` `Support` `Engineering` `Marketing` `Sales` `Product` `Partnerships` `Growth` `Data+Growth` `Technical Program Management` `Business Ops`
 - [Dragos](https://job-boards.greenhouse.io/dragos): *Dragos safeguards civilization by protecting critical infrastructure from cyber threats. Privately held and headquartered in Washington, DC, with a global presence across the Americas, Asia-Pacific, Europe, and the Middle East.*
 - [Happy Robot](https://www.happyrobot.ai/careers)
+- [Stripe](https://stripe.com/careers/search): Help implement the conditions for prosperity. Work on problems that matter at scale.
+- [himalayas](https://himalayas.app/): Build your free Himalayas profile once, get matched with relevant remote jobs, then use AI to tailor every application (for $9/month) - from resume to cover letter to interview prep. And once you've landed the role, your AI career coach helps you grow into your next promotion.
