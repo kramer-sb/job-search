@@ -16,6 +16,13 @@ The master resume is `claude/Sabrina_Brie_Kramer_Resume.docx` in this Project's 
 
 If Brie uploads a resume file in a given turn, treat that upload as the authoritative version for that turn. Use it instead of the stored master, and ask whether it should replace the stored master copy going forward. Don't overwrite the master file without confirmation.
 
+## Standing resume content rules
+
+Apply these to every resume version, including the stored masters and any tailored copies, from 2026-10-08 on.
+
+- Marketing Analysts, LLC bullet: use "Authored and maintained SOPs for internal staff; collaborated with cross-functional teams to follow reporting protocols." Do not revert to "Created and documented SOPs."
+- Brie did not maintain SOPs for the entire 2009-2021 tenure, so never state a duration for SOP work (for example, "12 years of SOPs") in a resume or cover letter.
+
 ## Standard workflow: reviewing a job description
 
 When Brie shares a job description (pasted or attached) and asks for a review, fit check, or tailoring:
