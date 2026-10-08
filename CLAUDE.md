@@ -22,6 +22,7 @@ Apply these to every resume version, including the stored masters and any tailor
 
 - Marketing Analysts, LLC bullet: use "Authored and maintained SOPs for internal staff; collaborated with cross-functional teams to follow reporting protocols." Do not revert to "Created and documented SOPs."
 - Brie did not maintain SOPs for the entire 2009-2021 tenure, so never state a duration for SOP work (for example, "12 years of SOPs") in a resume or cover letter.
+- Page breaks: never let a single bullet start on one page and continue on the next. Keep each bullet whole (for example, set keep-lines-together on every paragraph) and check the rendered page break before delivering.
 
 ## Standard workflow: reviewing a job description
 
