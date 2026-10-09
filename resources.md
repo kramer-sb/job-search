@@ -1,6 +1,6 @@
 # Resources
 
-For those currently job-hunting. Links take you straight to the the company's career page. Tags for different departments, if the company lists them.
+For those currently job-hunting. Links take you straight to the the company's career page where possible. Tags for different departments, if the company lists them. A work in progress.
 
 - [honeycomb.io](https://www.honeycomb.io/careers/open-roles): *Engineering teams use Honeycomb to follow their code into production. From tracing distributed services to debugging non-deterministic AI workflows, Honeycomb gives humans and agents a shared view of the only thing that matters: what's happening for their end users.*
  `Engineering & IT` `Product` `Marketing` `Revenue` `Finance` `People & Culture`
@@ -9,7 +9,7 @@ For those currently job-hunting. Links take you straight to the the company's ca
 - [supabase](https://supabase.com/careers): *Supabase is an open-source backend-as-a-service platform built on PostgreSQL*
 `Success` `Support` `Engineering` `Marketing` `Sales` `Product` `Partnerships` `Growth` `Data+Growth` `Technical Program Management` `Business Ops`
 - [Dragos](https://job-boards.greenhouse.io/dragos): *Dragos safeguards civilization by protecting critical infrastructure from cyber threats. Privately held and headquartered in Washington, DC, with a global presence across the Americas, Asia-Pacific, Europe, and the Middle East.*
-- [Happy Robot](https://www.happyrobot.ai/careers)
+- [Happy Robot](https://www.happyrobot.ai/careers): *HappyRobot helps enterprises put agents to work in complex environments. Join our mission.*
 - [Stripe](https://stripe.com/careers/search): *Help implement the conditions for prosperity. Work on problems that matter at scale.*
 - [himalayas](https://himalayas.app/): *Build your free Himalayas profile once, get matched with relevant remote jobs, then use AI to tailor every application (for $9/month) - from resume to cover letter to interview prep. And once you've landed the role, your AI career coach helps you grow into your next promotion.*
 - [Air](https://air.ai/careers): *We build the software that powers national security decision-making at the highest levels. If you want your work to matter on a national scale, and you're driven by hard problems, rigorous thinking, and a team that holds itself to a high standard, this is where you belong.*
@@ -35,12 +35,12 @@ For those currently job-hunting. Links take you straight to the the company's ca
 - [Onyx Security](https://www.onyx.security/careers#positions): *Onyx was founded around a single goal: to control the most advanced forms of AI.*
 - [Novee Security](https://novee.security/careers/): *To beat attackers you need a proprietary offensive AI model. We built it. Trained to continuously find, prove, and fix high-impact vulnerabilities before attackers can act.*
 - [Artemis Security](https://artemissecurity.com/careers/#positions-section): *Build AI That Defends Modern Systems*
-- [Socket](https://jobs.ashbyhq.com/socket)
-- [Tenzai](https://www.tenzai.com/careers#open-roles)
-- [Gray Swan](https://www.grayswan.ai/careers#open-positions)
-- [Exaforce](https://www.exaforce.com/careers#openings)
-- [Astelia](https://www.astelia.io/careers)
-- [Horizon3.ai](https://horizon3.ai/join-our-team/)
-- [Noma Security](https://noma.security/careers#open-positions)
-- [Outtake](https://www.outtake.ai/careers#open-positions)
-- [Nebulock](https://nebulock.io/careers)
+- [Socket](https://jobs.ashbyhq.com/socket): *Socket blocks malicious packages before they reach your code.*
+- [Tenzai](https://www.tenzai.com/careers#open-roles): *Tenzai's agents discover, chain, and exploit the vulnerabilities scanners miss — across every application you ship, continuously. Real attack techniques. Reproducible exploits. The craft of an elite human, at the scale only AI can deliver.*
+- [Gray Swan](https://www.grayswan.ai/careers#open-positions): *Your AI Systems Will Misbehave. We Keep Them In Line.*
+- [Exaforce](https://www.exaforce.com/careers#openings): *At Exaforce, we are on a mission to 10x improve the productivity and efficacy of security and operations teams using our transformative multi-model AI engine.*
+- [Astelia](https://www.astelia.io/careers): *Astelia was founded by cyber veterans and former leaders of the Israeli national red team who bring deep expertise across offensive and defensive cybersecurity. Through years of hands-on work with organizations of all sizes, they developed a precise understanding of how attackers think and where security teams lack visibility*
+- [Horizon3.ai](https://horizon3.ai/join-our-team/): *NodeZero scales offensive security with autonomous penetration testing. See how production exploits and proven impact drives priority, unlocks precision threat deception and detection, and delivers a gold mine of trend data for exposure management and executive reporting.*
+- [Noma Security](https://noma.security/careers#open-positions): *Noma Security is committed to the highest international privacy and security regulations. Securing your organization’s data and adhering to compliance requirements is top of mind.*
+- [Outtake](https://www.outtake.ai/careers#open-positions): *Secure Digital Trust. Agentic Brand Protection, Executive Protection, and Narrative Intelligence*
+- [Nebulock](https://nebulock.io/careers): *The new way to threat hunt. Because breaches happen in silence*
