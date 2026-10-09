@@ -36,6 +36,18 @@ When Brie shares a job description (pasted or attached) and asks for a review, f
 5. **Save each full report in this Project** at `reviews/YYYY-MM-DD-company-###.md`, using the company's ID from `/company-map.md` (assign one first if it's a new company), never the real company name, in the file name or in the report text. Reports stay private to the Project; never suggest putting them in a public repo. Quick verdicts that don't get a full report are logged only, with notes in the log if useful.
 6. After the review is delivered (whether full report or just the quick verdict), log it. See Application Log below.
 
+## Public repo confidentiality (hard rule)
+
+This repo is public. No tracked file may ever contain the name of a company Brie has applied to, reviewed, or skipped. This applies to `applications-log.md`, `resources.md`, `README.md`, `CLAUDE.md`, review reports, commit messages, and any new file. The only place a real name may appear is `/company-map.md`, which is gitignored.
+
+- Use "Company ###" for every employer, including in free-text notes, Open Questions, and file names.
+- Local folders are named with the company (for example "1005-Name"). Never repeat that folder name. Write "the 1005 application folder" (date only).
+- Also leave out details that point to one company: the employer's product, program or initiative names, the specific agency or client it serves, its city or office location, parent or affiliate names, recruiter or staffing firm names, and application confirmation numbers. Say "a federal agency" or "an out-of-state remote role" instead. Generic tools, job boards and application platforms (Lever, LinkedIn, HiringCafe) are fine.
+- Job titles are fine unless the title is itself a unique program name. Then generalize it.
+- Before saving any edit to a tracked file, scan the new text against every name in `/company-map.md` and against the identifying-detail list above. If a match appears, rewrite it first.
+- After any edit to the log, grep the file for each name in `/company-map.md` and report the result to Brie. A single hit is a failure to fix before finishing.
+- Brie's own prompts and pasted JDs contain real names. Never copy them into tracked files, even in quotes.
+
 ## Application log
 
 This repo is public, so `/applications-log.md` never contains real company names. Company identity lives only in `/company-map.md`, which is gitignored and stays local.
