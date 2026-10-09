@@ -12,12 +12,12 @@ For those currently job-hunting. Links take you straight to the the company's ca
 - [Happy Robot](https://www.happyrobot.ai/careers)
 - [Stripe](https://stripe.com/careers/search): *Help implement the conditions for prosperity. Work on problems that matter at scale.*
 - [himalayas](https://himalayas.app/): *Build your free Himalayas profile once, get matched with relevant remote jobs, then use AI to tailor every application (for $9/month) - from resume to cover letter to interview prep. And once you've landed the role, your AI career coach helps you grow into your next promotion.*
-- [Air](https://air.ai/careers)
-- [Act](https://jobs.ashbyhq.com/act-security)
-- [Runlayer](https://www.runlayer.com/about#careers)
-- [Aegis AI Security](https://www.aegisai.com/careers)
-- [Above Security](https://www.above.security/careers)
-- [RunSybil](https://www.runsybil.com/careers#open-roles-board)
+- [Air](https://air.ai/careers): *We build the software that powers national security decision-making at the highest levels. If you want your work to matter on a national scale, and you're driven by hard problems, rigorous thinking, and a team that holds itself to a high standard, this is where you belong.*
+- [Act](https://jobs.ashbyhq.com/act-security): *Come build the foundation of cloud security with us. Finding risk has gotten easier. Eliminating its root causes hasn’t. Join our growing global team at Act and help us build the foundation the cloud has been missing.*
+- [Runlayer](https://www.runlayer.com/about#careers): *Runlayer makes enterprise AI safe and simple. From the tools you already use to the agents you’ll build next, we’re building toward safe, capable AI that works anywhere.*
+- [Aegis AI Security](https://www.aegisai.com/careers): *The first AI lab for email security. A team of AI agents investigates every message to catch the attacks others miss.*
+- [Above Security](https://www.above.security/careers): *Checkmate, insider threat. Traditional solutions don’t cut it for modern security. Comprehensive security comes from understanding intent.*
+- [RunSybil](https://www.runsybil.com/careers#open-roles-board): *RunSybil is an AI-powered offensive security platform that continuously tests your applications and infrastructure for exploitable vulnerabilities by reasoning about your system the way an elite human researcher would, but across your entire stack, on every deployment.*
 - [Neo](https://neo.work/careers)
 - [Cogent](https://jobs.ashbyhq.com/cogent-security)
 - [Kai](https://www.kai.security/careers#open-positions)
