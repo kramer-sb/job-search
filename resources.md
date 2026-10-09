@@ -18,23 +18,23 @@ For those currently job-hunting. Links take you straight to the the company's ca
 - [Aegis AI Security](https://www.aegisai.com/careers): *The first AI lab for email security. A team of AI agents investigates every message to catch the attacks others miss.*
 - [Above Security](https://www.above.security/careers): *Checkmate, insider threat. Traditional solutions don’t cut it for modern security. Comprehensive security comes from understanding intent.*
 - [RunSybil](https://www.runsybil.com/careers#open-roles-board): *RunSybil is an AI-powered offensive security platform that continuously tests your applications and infrastructure for exploitable vulnerabilities by reasoning about your system the way an elite human researcher would, but across your entire stack, on every deployment.*
-- [Neo](https://neo.work/careers)
-- [Cogent](https://jobs.ashbyhq.com/cogent-security)
-- [Kai](https://www.kai.security/careers#open-positions)
-- [TENEX.AI](https://tenex.ai/careers/open-positions/)
-- [NewCore](https://newcore.com/careers#open-roles)
-- [Armadin](https://www.armadin.com/careers)
-- [A Security](https://www.comeet.com/jobs/a_security/EA.007)
-- [Aryon Security](https://www.aryon.security/careers)
-- [Aikido Security](https://www.aikido.dev/company/careers#jobs)
-- [7AI](https://7ai.com/careers)
-- [Cylake](https://cylake.com/company/careers/#open-roles)
-- [Straiker](https://www.straiker.ai/careers#positions)
-- [Knox Systems, Inc.](https://jobs.ashbyhq.com/knox-systems)
-- [Glow](https://www.glow.io/careers)
-- [Onyx Security](https://www.onyx.security/careers#positions)
-- [Novee Security](https://novee.security/careers/)
-- [Artemis Security](https://artemissecurity.com/careers/#positions-section)
+- [Neo](https://neo.work/careers): *Neo is an integrated AI work platform that centralizes context, captures knowledge and weaves AI into every workflow.*
+- [Cogent](https://jobs.ashbyhq.com/cogent-security): *Cogent’s AI agents investigate and resolve vulnerabilities at machine speed before attackers can exploit them.*
+- [Kai](https://www.kai.security/careers#open-positions): *Rebuilding cybersecurity from first principles.*
+- [TENEX.AI](https://tenex.ai/careers/open-positions/): *TENEX was founded to solve the hardest problem in enterprise security: the coverage gap. Not because analysts aren't talented, but because human-speed triage can never match machine-speed attacks.*
+- [NewCore](https://newcore.com/careers#open-roles): *Identity has become the primary attack surface. Humans and AI agents now operate together across systems at machine speed, and legacy identity architecture was never built for that reality. We started NewCore to make identity the foundation that protects this new era.*
+- [Armadin](https://www.armadin.com/careers): *Led by the minds who understand security from every angle*
+- [A Security](https://www.comeet.com/jobs/a_security/EA.007): *The offensive security and remediation platform to protect against weaponized AI.*
+- [Aryon Security](https://www.aryon.security/careers): *Making it Possible for Everyone to Proactively Secure Complex Cloud Environments.*
+- [Aikido Security](https://www.aikido.dev/company/careers#jobs): *The fastest European cybersecurity company to reach unicorn status.*
+- [7AI](https://7ai.com/careers): *7AI is the foundational AI security company. Founded in 2024 by Cybereason co-founders Lior Div and Yonatan Striem-Amit, 7AI came out of stealth in February 2025 to take on the non-human work of the SOC — with AI agents that detect, investigate, respond, and hunt, and humans on the loop*
+- [Cylake](https://cylake.com/company/careers/#open-roles): *Cylake is the complete, AI-native cybersecurity platform that provides full visibility, sets fine-grained policy, and stops attacks in fully air-gapped sovereign environments.*
+- [Straiker](https://www.straiker.ai/careers#positions): *Building AI agent security for the next era of enterprise AI, helping organizations discover agentic activity, red team AI agents for real attack paths, and defend agents at runtime before agentic risk becomes agentic chaos.*
+- [Knox Systems, Inc.](https://jobs.ashbyhq.com/knox-systems): *FedRAMP in 90 days for 90% less. Get FedRAMP authorization without dependency or delay.*
+- [Glow](https://www.glow.io/careers): *Glow was founded by security veterans and repeat founders with one shared conviction: Al made reactive security a losing game. We're rebuilding endpoint protection - the most attacked surface in the enterprise - from first principles.*
+- [Onyx Security](https://www.onyx.security/careers#positions): *Onyx was founded around a single goal: to control the most advanced forms of AI.*
+- [Novee Security](https://novee.security/careers/): *To beat attackers you need a proprietary offensive AI model. We built it. Trained to continuously find, prove, and fix high-impact vulnerabilities before attackers can act.*
+- [Artemis Security](https://artemissecurity.com/careers/#positions-section): *Build AI That Defends Modern Systems*
 - [Socket](https://jobs.ashbyhq.com/socket)
 - [Tenzai](https://www.tenzai.com/careers#open-roles)
 - [Gray Swan](https://www.grayswan.ai/careers#open-positions)
