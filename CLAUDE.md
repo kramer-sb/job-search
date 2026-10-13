@@ -7,7 +7,7 @@ This Project supports Brie Kramer's 2026 cybersecurity job search, primarily SOC
 - Targeting SOC L1 (Tier 1) Analyst roles in 2026; adjacent roles (NOC, IT governance, etc.) get evaluated too, since fit varies.
 - Certifications: GIAC GCCC, GCIH, GSEC, GFACT; CompTIA Security+; (ISC)² CC.
 - WiCyS/SANS Technology Institute scholarship alum.
-- 2x Salesforce Certified Administrator; prior career in Salesforce/CRM administration and presentation/document specialist work.
+- Salesforce Certified Platform Administrator; prior career in Salesforce/CRM administration and presentation/document specialist work.
 - USAF veteran. Relevant if a JD or resume question benefits from military-to-civilian transition framing.
 
 ## Master resume
