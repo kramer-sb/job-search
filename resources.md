@@ -4,26 +4,120 @@ For those currently job-hunting. Links take you straight to the company's career
 
 ## Uncategorized
 
+- [360 Advanced](https://360advanced.com/careers/#joblisting): *Relationship-Centric Cybersecurity + Compliance Firm.*
 - [Above Security](https://www.above.security/careers): *Checkmate, insider threat. Traditional solutions don’t cut it for modern security. Comprehensive security comes from understanding intent.*
 - [Act](https://jobs.ashbyhq.com/act-security): *Come build the foundation of cloud security with us. Finding risk has gotten easier. Eliminating its root causes hasn’t. Join our growing global team at Act and help us build the foundation the cloud has been missing.*
+- [Adaptive Security](https://www.adaptivesecurity.com/careers): *Adaptive is the human security platform for the AI era.*
 - [Aikido Security](https://www.aikido.dev/company/careers#jobs): *The fastest European cybersecurity company to reach unicorn status.*
 - [Air](https://air.ai/careers): *We build the software that powers national security decision-making at the highest levels. If you want your work to matter on a national scale, and you're driven by hard problems, rigorous thinking, and a team that holds itself to a high standard, this is where you belong.*
+- [Ampcus Cyber](https://www.ampcuscyber.com/careers/): *Intelligent Cybersecurity for a Smarter, Safer World.*
+- [Anvil](https://www.anvilogic.com/company/careers): *Launch products on-time; leave the document workflows to us.*
+- [Apono, now part of 1Password](https://www.apono.io/careers/): *An Identity Security platform providing Just In Time and Just Enough access to cloud assets, DBs, k8s clusters, & more.*
 - [Armadin](https://www.armadin.com/careers): *Led by the minds who understand security from every angle*
 - [Aryon Security](https://www.aryon.security/careers): *Making it Possible for Everyone to Proactively Secure Complex Cloud Environments.*
+- [ASPG](https://aspg.com/): *Providing the z/OS and Distributed community with cutting-edge software solutions, support, and services since 1986.*
+- [ASSA ABLOY](https://www.assaabloy.com/career/en/open-positions): *ASSA ABLOY is the global leader in access solutions. Every day we help people feel safe and secure, and experience a more open world.*
 - [Astelia](https://www.astelia.io/careers): *Astelia was founded by cyber veterans and former leaders of the Israeli national red team who bring deep expertise across offensive and defensive cybersecurity. Through years of hands-on work with organizations of all sizes, they developed a precise understanding of how attackers think and where security teams lack visibility*
+- [Atakama](https://www.atakama.com/): *Atakama provides security and visibility for the most commonly used tool in every work environment: the browser. The Browser Security Platform transforms your users' existing browsers into secure, fully managed workspaces*
+- [Atlantic Data Security](https://atlanticdatasecurity.com/company/careers): *Anchored in Trust- Powered by Security*
+- [Auditwerx](https://auditwerx.com/careers/): *Auditwerx specializes in security advisory, compliance and reporting services for clients throughout the United States and internationally. Our services are designed to identify organizational threats, solve complex business challenges, review internal business processes and controls, and protect information assets.*
+- [Axonius](https://www.axonius.com/company/careers): *Every asset. Every exposure. Actionable from one place.*
+- [Binary Defense](https://binarydefense.com/careers): *Most security programs are built to check boxes. We’re built to stop what actually matters.*
+- [Bridewell Consulting](https://www.bridewell.com/us/why-bridewell/careers): *Cyber Security. Where it Matters. We protect Critical National Infrastructure (CNI) and organisations who require the highest standard of cyber security.*
+- [CanIPhish](https://caniphish.com/): *About CanIPhish Headquartered in Queensland, Australia, CanIPhish was founded with the goal of making security awareness training accessible, engaging, and most importantly, fun!*
+- [Capsule Security](https://www.capsulesecurity.io/about-us): *We Stop Rogue Agents. Runtime Security for the AI Agent Era, focused on Agentic Intent.*
+- [Censys](https://censys.com/careers/): *Censys is THE authority for Internet intelligence, delivering the world’s most comprehensive and accurate real-time map of the Internet.*
+- [Cloaked](https://jobs.ashbyhq.com/cloaked): *Every day, data brokers buy and sell your email, phone number, address, and more — fueling spam calls, scams, phishing attacks, and identity theft. Cloaked empowers you to fight back by removing your data and keeping it private. Cloaked lets you take back control.*
+- [Cloudshare](https://www.cloudshare.com/company/careers-at-cloudshare/): *CloudShare provides the world’s most advanced and versatile virtual hands-on labs, driving long-term value throughout the customer journey.*
+- [Cobalt](https://job-boards.greenhouse.io/cobaltio): *Cobalt is a leader in continuous offensive security. Only Cobalt brings together human expertise, a context aware platform, AI-driven orchestration, and the industry's largest dataset of real-world pentest results.*
+- [CodeHunter](https://apply.workable.com/codehunter/): *Identity. Device. Network. Workload. Data. Now Code. Zero Trust for Code: The Missing Control Plane for the Enterprise*
+- [Compyl](https://compyl.com/careers/): *Compyl was founded by two former CISOs to fix the painful, manual state of enterprise security governance. We’re remote-first, venture-backed, and moving fast — come build with us.*
+- [Conveyor](https://www.conveyor.com/company/careers): *AI Agents for Trust Centers, Security Questionnaires, RFPs & TPRM*
+- [Cribl](https://cribl.io/careers/): *Cribl, the AI Platform for Telemetry, powers SIEM, observability, AI SOC, and custom apps on one platform.*
+- [Cyberhaven](https://www.cyberhaven.com/careers): *Unified AI & Data Security*
+- [CYGNVS](https://cygnvs.com/careers/): *The Out-of-Band Command Center for Cyber Resilience*
+- [Digital Hands](https://www.digitalhands.com/careers): *Delivering security posture management with the flexibility & support needed for your specific environment.*
+- [Diligent](https://job-boards.greenhouse.io/diligentcorporation): *The leading AI platform for GRC. Centralize governance, risk and compliance in one AI platform. Eliminate manual work and deliver insights that drive board-level decisions.*
 - [Dragos](https://job-boards.greenhouse.io/dragos): *Dragos safeguards civilization by protecting critical infrastructure from cyber threats. Privately held and headquartered in Washington, DC, with a global presence across the Americas, Asia-Pacific, Europe, and the Middle East.*
+- [eset](https://jobs.eset.com/en-US/ESET_External): *ESET® provides proactive cybersecurity solutions that help prevent attacks before they happen.*
+- [exterro](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a6d4025e-fbda-4675-b776-bf669713f14a&ccId=19000101_000001&type=JS&lang=en_US&selectedMenuKey=CurrentOpenings): *Exterro delivers agentic AI to reveal hidden risk, simplify compliance, and bring visibility and control to every corner of your data landscape, combining eDiscovery, Digital Forensics, and Data Governance into a single, defensible platform.*
 - [Glow](https://www.glow.io/careers): *Glow was founded by security veterans and repeat founders with one shared conviction: Al made reactive security a losing game. We're rebuilding endpoint protection - the most attacked surface in the enterprise - from first principles.*
+- [Guardare](https://www.guardare.com/careers): *AI-driven visibility that turns exposures into prioritized action*
+- [Guardsquare](https://www.guardsquare.com/careers): *The leader in mobile application protection*
+- [Hack The Box](https://www.hackthebox.com/join-us#view-roles): *Hack The Box is a Cyber Performance Center focused on developing high-performing cybersecurity professionals and teams.*
+- [HackNotice](https://landing.hacknotice.com/hacknotice-careers): *HackNotice stops the main cause of cyber breaches and leaks.*
+- [Halcyon](https://www.halcyon.ai/careers): *Detect. Disrupt. Defeat Ransomware.*
+- [harness](https://www.harness.io/company/jobs): *Harness delivers end-to-end application security on the Autonomous SDLC Platform — finding and fixing vulnerabilities in pipelines with the Security Testing Agent, and protecting APIs, AI assets, and agents in production with the Runtime Protection Agent.*
+- [HID](https://careers.hidglobal.com/): *HID powers the trusted identities of the world’s people, places and things.*
 - [himalayas](https://himalayas.app/): *Build your free Himalayas profile once, get matched with relevant remote jobs, then use AI to tailor every application (for $9/month) - from resume to cover letter to interview prep. And once you've landed the role, your AI career coach helps you grow into your next promotion.*
 - [honeycomb.io](https://www.honeycomb.io/careers/open-roles): *Engineering teams use Honeycomb to follow their code into production. From tracing distributed services to debugging non-deterministic AI workflows, Honeycomb gives humans and agents a shared view of the only thing that matters: what's happening for their end users.*
  `Engineering & IT` `Product` `Marketing` `Revenue` `Finance` `People & Culture`
 - [Horizon3.ai](https://horizon3.ai/join-our-team/): *NodeZero scales offensive security with autonomous penetration testing. See how production exploits and proven impact drives priority, unlocks precision threat deception and detection, and delivers a gold mine of trend data for exposure management and executive reporting.*
+- [HPE SimpliVity](https://careers.hpe.com/us/en)
+- [iboss](https://www.iboss.com/careers)
+- [illumio](https://www.illumio.com/company/careers)
+- [Impart](https://www.impart.ai/careers)
+- [Intezer](https://intezer.com/careers)
+- [IONIX](https://www.ionix.io/careers/)
+- [JumpCloud / Puma](https://jumpcloud.com/careers#careers-jobs): *JumpCloud and PUMA Cybersystems are joining forces to simplify identity, access, device management, and AI security.*
+- [Knocknoc](https://knocknoc.io/)
 - [Knox Systems, Inc.](https://jobs.ashbyhq.com/knox-systems): *FedRAMP in 90 days for 90% less. Get FedRAMP authorization without dependency or delay.*
+- [Lema](https://www.lema.ai/careers)
+- [Magnet Forensics](https://www.magnetforensics.com/careers-at-magnet/)
+- [MazeBolt](https://mazebolt.com/careers#positions): *MazeBolt RADAR™ is the independent validation layer for DDoS protection, providing continuous proof of resilience for enterprises whose online services cannot afford damaging downtime.*
+- [Mend.io](https://www.mend.io/careers/)
+- [MetricStream](https://www.metricstream.com/about-us/careers.htm)
+- [MokN, Inc.](https://www.mokn.io/): *The smartest way to end identity threats. They don't have a career page but their product looks super cool. Check out the website.*
 - [Nebulock](https://nebulock.io/careers): *The new way to threat hunt. Because breaches happen in silence*
+- [NetSPI](https://www.netspi.com/careers/)
 - [NewCore](https://newcore.com/careers#open-roles): *Identity has become the primary attack surface. Humans and AI agents now operate together across systems at machine speed, and legacy identity architecture was never built for that reality. We started NewCore to make identity the foundation that protects this new era.*
+- [NinjaOne](https://www.ninjaone.com/careers/)
+- [Onspring](https://onspring.com/company/careers/): *Onspring is an adaptive, integrated GRC platform that connects governance, risk, and compliance processes across the enterprise.*
+- [OX Security](https://www.ox.security/careers/)
+- [Panorays](https://panorays.com/careers/)
+- [Project First](https://objectfirst.com/careers/#open-roles): *Object First delivers secure, simple, and powerful backup storage purpose-built for Veeam that is absolutely immutable.*
+- [Rubrik](https://www.rubrik.com/company/careers#positions): *Rubrik - The Security and AI Operations Company, leads at the intersection of data protection, cyber resilience, and enterprise AI acceleration.*
+- [Sailpoint](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs): *SailPoint defines adaptive identity security with an AI-powered platform that unifies identity, security, and data intelligence.*
+- [Sectigo](https://www.sectigo.com/careers)
+- [Secure Ideas](https://www.secureideas.com/careers)
+- [SecurEnds](https://www.securends.com/careers/)
+- [Securiti AI / Veeam](https://careers.veeam.com/search-jobs?ad=menu-company-careers): *Securiti, now part of Veeam, is the pioneer of the DataAI Command Platform — a centralized platform that enables the safe use of data and AI across hybrid multicloud environments.*
+- [SecurityHQ](https://www.securityhq.com/careers/): *SecurityHQ pioneers Security Performance Engineering, helping organisations continuously improve security operations*
+- [Seemplicity](https://seemplicity.ai/careers/)
+- [Sentra](https://www.sentra.app/careers)
+- [Sentrix](https://sentrix.ca/en/careers)
+- [SNYK](https://snyk.io/careers/)
 - [Socket](https://jobs.ashbyhq.com/socket): *Socket blocks malicious packages before they reach your code.*
+- [Sprocket Security](https://www.sprocketsecurity.com/company/careers)
+- [Strike 48](https://www.strike48.com/careers/current-openings): *Strike48 is the Agentic Security Operations platform that pairs complete log visibility with AI agents that run investigations, automate detection, and orchestrate responses 24/7.*
 - [Stripe](https://stripe.com/careers/search): *Help implement the conditions for prosperity. Work on problems that matter at scale.*
+- [Surecloud](https://www.linkedin.com/company/surecloud/jobs/)
+- [Synack](https://www.synack.com/careers/)
 - [Tailscale](https://tailscale.com/careers#open-job-positions): *A Zero Trust identity-based connectivity platform that replaces your legacy VPN, SASE, and PAM and connects remote teams, multi-cloud environments, CI/CD pipelines, Edge & IoT devices, and AI workloads.*
 `Data` `Engineering` `Marketing` `Sales` `Customer Support` `Product`
+- [Teramind](https://www.teramind.co/careers/#open-positions): *Teramind is the global leader in Insider Risk Management, Data Loss Prevention, and Workforce Analytics – trusted by 10,000+ organizations across 125 countries.*
+- [Thales](https://cpl.thalesgroup.com/careers): *Thales, together with Imperva, is a global cybersecurity leader helping organizations protect identities, applications, data, and software across cloud and on-premises environments.*
+- [ThreatLocker](https://www.threatlocker.com/company/careers#current-openings): *ThreatLocker is the global leader in Zero Trust cybersecurity that stops attacks before they happen.*
+- [Todyl](https://www.todyl.com/careers): *Todyl empowers businesses with comprehensive cybersecurity delivered through a single-agent platform.*
+- [TrendAI](https://trendmicro.wd3.myworkdayjobs.com/en-US/External): *TrendAI™, the global AI security leader and enterprise business unit of Trend Micro, empowers organizations with full AI visibility and consolidated security that inspires confidence, drives innovation, and eliminates risk*
+- [TrendAI](https://trendmicro.wd3.myworkdayjobs.com/External_TrendLife): *TrendAI™, the global AI security leader and enterprise business unit of Trend Micro, empowers organizations with full AI visibility and consolidated security that inspires confidence, drives innovation, and eliminates risk*
+- [Trinity Cyber](https://www.trinitycyber.com/company/careers): *Advance your career while building the next big breakthrough in network security.*
+- [TrustedSec](https://trustedsec.com/about-us/community-involvement)
+- [Unixi](https://unixi.io/company/#career): *Unixi’s universal SSO platform delivers a new reality over SaaS apps. No integrations, no SSO tax - just passwordless access with 100% SaaS app coverage*
+- [UpGuard, Inc.](https://www.upguard.com/careers)
+- [Utimaco](https://utimaco.com/careers)
+- [VanishID](https://vanishid.com/careers/): *Agentic ai-powered external identity security Visibility and Control of the External Identity Attack Surface.*
+- [Veracode](https://www.veracode.com/about/careers/#h-current-job-openings): *Veracode is a leader in Application Risk Management, helping organizations build and maintain secure software throughout the development lifecycle.*
+- [Verax AI](https://www.verax.ai/about-us#join-us)
+- [VOCAL Technologies](https://vocal.com/about-us/careers/)
+- [Vorlon](https://vorlon.io/careers)
+- [Whistic](https://ats.rippling.com/whistic-careers/jobs): *Whistic is the AI-first Risk Operations platform built for the teams who actually do the work.*
+- [Wildfire Technology Integration](https://www.wildfireav.com/careers/): *Wildfire designs, engineers, and supports AV and control room environments that help organizations operate clearly and confidently. From conference rooms to mission-critical operations centers, our team delivers reliable systems backed by responsive white-glove support.*
+- [WitnessAI](https://witness.ai/careers/): *Approach Agents with Certainty. One platform to secure your human and agentic workforce. WitnessAI makes AI safe to use and deploy for every employee, model, application, and agent.*
+- [WorkNest Secure](https://securecareers.worknest.com/#jobs): *Get compliant. Stay secure. With expert-led pen testing and in-depth security services, we ensure SMBs can find and fix vulnerabilities, pass audits, and stay vigilant and resilient.*
+- [Zafran Security](https://www.zafran.io/careers)
+- [Zaperon](https://www.zaperon.com/): *Zaperon is an Identity-centric Security Service Edge (SSE) Platform that secures your applications, data and cloud infrastructure from users and devices connecting from any location or network.*
+- [Zscaler](https://www.zscaler.com/careers): *Zscaler's unified cybersecurity platform, built on the Zero Trust Exchange, sits inline on every connection, connecting each entity only to what it is authorized to reach so the attack surface disappears. The same platform that secures your users and data secures every AI agent and model you deploy, and helps your SOC stop threats at machine speed.*
 
 ## AI
 
