@@ -22,6 +22,8 @@ Apply these to every resume version, including the stored masters and any tailor
 
 - Marketing Analysts, LLC bullet: use "Authored and maintained SOPs for internal staff; collaborated with cross-functional teams to follow reporting protocols." Do not revert to "Created and documented SOPs."
 - Brie did not maintain SOPs for the entire 2009-2021 tenure, so never state a duration for SOP work (for example, "12 years of SOPs") in a resume or cover letter.
+- Windows 11 Intune lab bullet (added 2026-10-16): every resume version, including the stored masters, carries the endpoint lab bullet in the training section, right after the home-lab bullet: joined the VM to Microsoft Entra ID, enrolled it in Intune, and configured compliance, BitLocker (recovery key stored in Entra ID), firewall and settings catalog policies, app deployment, an update ring, and Conditional Access; troubleshot a BitLocker failure that Intune reported as Succeeded; documented in a public GitHub write-up. Tutorial Part 13 (remote actions, wipe and rebuild, cleanup) is not finished, so do not claim it.
+- Wazuh stays off resumes until Brie finishes the Wazuh tutorials and confirms what she completed. A cover letter may say she is working through a Wazuh deployment.
 - Page breaks: never let a single bullet start on one page and continue on the next. Keep each bullet whole (for example, set keep-lines-together on every paragraph) and check the rendered page break before delivering.
 
 ## Standard workflow: reviewing a job description
